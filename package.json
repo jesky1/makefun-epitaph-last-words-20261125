@@ -1,0 +1,1 @@
+{"description":"One-line epitaph of famous last words for make.fun's Famous Last Words: The Funniest Epitaph bounty.","engines":{"node":">=22.6"},"license":"MIT","main":"main.ts","name":"makefun-epitaph-last-words-20261125","scripts":{"start":"node main.ts","test":"node --test test.mjs"},"type":"module","version":"1.0.0"}
